@@ -25,10 +25,10 @@ author_profile: true
 
 ## Best paper awards and distinguished paper awards
 
-* **Best Paper Award**, [ACM International Conference on Mining Software Repositories (MSR)](https://conf.researchr.org/home/msr-2024), Mining Challenge track, 2024.
+* **Best Paper Award**, [International Conference on Mining Software Repositories (MSR)](https://conf.researchr.org/home/msr-2024), Mining Challenge track, 2024.
 *  **Best Paper Award**, [55th ACM Technical Symposium on Computer Science Education (SIGCSE)](https://sigcse2024.sigcse.org/), 2024.
 *  **Distinguished Paper Award**, [20th International Conference on Service-Oriented Computing (ICSOC)](https://icsoc2022.spilab.es/), 2022.
-* **Best Paper Award**, [ACM International Conference on Mining Software Repositories (MSR)](https://conf.researchr.org/home/msr-2022) 2022, Mining Challenge track.
+* **Best Paper Award**, [International Conference on Mining Software Repositories (MSR)](https://conf.researchr.org/home/msr-2022) 2022, Mining Challenge track.
 * **Best Paper Award Finalist**, [19th International Conference on Software and Systems Reuse (ICSR)](https://icsr2020.wordpress.com/), 2020.
 *  **ACM SIGSOFT Best Paper Award**, the [15th ACM/IEEE International Conference on Global Software Engineering (ICGSE)](https://conf.researchr.org/home/icgse-2020), 2020.  [Paper](https://dl.acm.org/doi/10.1145/3372787.3390439).
 * **Best Paper Award**,  [Journal of Energies](https://www.mdpi.com/journal/energies/awards/621), 2019. [Paper](https://www.mdpi.com/1996-1073/11/7/1636).
