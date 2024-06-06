@@ -21,11 +21,10 @@ author_profile: true
 - Francener Alezy, M.Sc., 2021 - current
 
 ### Visiting intern students  
+- Alaa Ajjel, MSc, Summer 2024
+- Nour Bousrih, MSc, Summer 2024
+- Issam Oukhay, MsC, Summer 2024
 
-- Farah Hachicha, M.Sc., Summer 2023
-- Jouhaina Nasri, M.Sc., Summer 2023
-- Jasem Khelifi, Undergad, Summer 2023
-- Fatma Beji, Undergad, Summer 2023
 
 ### Former students
  - [Nuri Almarimi](https://ca.linkedin.com/in/nuri-almarimi-0936116b), PhD, 2023. Now Postdoctoral researcher at the [University of Saskatchewan](https://www.usask.ca/). 
@@ -55,4 +54,8 @@ author_profile: true
 - [Sabrine Boukharata](https://ca.linkedin.com/in/sabrine-boukharata-aa452396), MSc, 2019. Now Software Analyst at [GIRO](https://www.giro.ca/en-ca/)
 - [Bechir Jebali](https://ouniali.github.io/members/), M.Ing. 2019, Now software analyst at the [Ministry of MIDI, Quebec](https://www.quebec.ca/immigration).
 - [Naoya Ujihara](https://ouniali.github.io/members/), M.Eng., 2016. Now Software analyst at [NTT Japan](https://group.ntt/en/)
+- Farah Hachicha, M.Sc., Summer 2023
+- Jouhaina Nasri, M.Sc., Summer 2023
+- Jasem Khelifi, Undergad, Summer 2023
+- Fatma Beji, Undergad, Summer 2023
   
