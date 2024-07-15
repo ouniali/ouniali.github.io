@@ -11,10 +11,10 @@ author_profile: true
 * **Ranked among TOP-3 researchers in the field of search-based software refactoring**. Thaina Mariani, Silvia Regina Vergilio, [A systematic review on search-based refactoring](http://dx.doi.org/10.1016/j.infsof.2016.11.00), Journal of Information and Software Technology (IST), Elsevier, 2016.
 
 ## Honors, Recognitions & Scholarship
-* **CS-Can/Info-Can Outstanding Early Career Computer Science Researcher Award**, Canada’s national Computer Science academic organization ([**CS-Can/Info-Can**)](https://cscan-infocan.ca/), 2023
+* **[CS-Can/Info-Can Outstanding Early Career Computer Science Researcher Award](https://cscan-infocan.ca/current-year-winners/)**, Canada’s national Computer Science academic organization ([**CS-Can/Info-Can**)](https://cscan-infocan.ca/), 2023
 * [**Research Ecellence Award (Releve) of the University of Quebec**](https://reseau.uquebec.ca/fr/a-propos/prix-et-distinctions/prix-dexcellence), 2023. Award from all disciplines in natural sciences, engineering, and health sciences.
 * [**Early Career Research Ecellence Award**](https://www.etsmtl.ca/ets/a-propos/prix-et-distinctions), [ETS Montreal](https://www.etsmtl.ca/), 2021.
-* **Excellence Award**, PhD thesis, FESP, University of Montreal, 2014. The highest University honor that PhD students engaged in research can receive.
+* **Excellence Award**, PhD thesis, [FESP, University of Montreal](https://esp.umontreal.ca/english/home/), 2014. The highest University honor that PhD students engaged in research can receive.
 * **PhD Research Excellence Award**, [J. Armand Bombardier Foundation](https://www.fondationbombardier.ca/en/), Canada, 2014.
 * **Outstanding Graduate student excellence award**, [Department of Computer Science and Operations Research (DIRO)](http://diro.umontreal.ca/accueil/), [University of Montreal](https://www.umontreal.ca/), 2013. The highest departmental Award for excellent graduate students.
 * **Excellence Doctoral Scholarship Award**, [MESR](http://www.mesrst.tn/anglais/index.htm), Government of Tunisia (2011-2014).
