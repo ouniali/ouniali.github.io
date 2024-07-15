@@ -17,7 +17,7 @@ author_profile: true
 * **Excellence Award**, PhD thesis, [FESP, University of Montreal](https://esp.umontreal.ca/english/home/), 2014. The highest University honor that PhD students engaged in research can receive.
 * **PhD Research Excellence Award**, [J. Armand Bombardier Foundation](https://www.fondationbombardier.ca/en/), Canada, 2014.
 * **Outstanding Graduate student excellence award**, [Department of Computer Science and Operations Research (DIRO)](http://diro.umontreal.ca/accueil/), [University of Montreal](https://www.umontreal.ca/), 2013. The highest departmental Award for excellent graduate students.
-* **Excellence Doctoral Scholarship Award**, [MESR](http://www.mesrst.tn/anglais/index.htm), Government of Tunisia (2011-2014).
+* **Excellence Doctoral Scholarship Award**, [MESR](http://www.mes.tn/?langue=fr), Government of Tunisia (2011-2014).
 
 ## Most influential paper awards
 
