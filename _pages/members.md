@@ -8,7 +8,7 @@ author_profile: true
 
 ### Current PhD students
   - Syrine Khelifi, PhD, 2024 - current
-  - Amina Bouaziz, PhD, 2024 - Current (co-supervided with Dr. Saied, Univ. Laval)
+  - Amina Bouaziz, PhD, 2024 - current (co-supervided with Dr. Saied, Univ. Laval)
   - Mahi Begoug, PhD, 2023 - current
   - Mohamed Amine Batoun, PhD, 2022 - current (co-supervided with Dr. Sayagh)
   - Narjes Bessghaier, PhD, 2020 - current (co-supervided with Dr. Sayagh)
