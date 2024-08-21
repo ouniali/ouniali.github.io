@@ -7,13 +7,15 @@ author_profile: true
 - Ali Ouni
 
 ### Current PhD students
+  - Syrine Khelifi, PhD, 2024 - current
+  - Amina Bouaziz, PhD, 2024 - Current (co-supervided with Dr. Saied, Univ. Laval)
   - Mahi Begoug, PhD, 2023 - current
-  - Mohamed Amine Batoun, PhD, 2022 - current
-  - Moataz Chouchen, PhD, 2020 - current
-  - Narjes Bessghaier, PhD, 2020 - current
+  - Mohamed Amine Batoun, PhD, 2022 - current (co-supervided with Dr. Sayagh)
+  - Narjes Bessghaier, PhD, 2020 - current (co-supervided with Dr. Sayagh)
   
 ### Current Masters students  
 
+- Jasem Khelifi, M.Sc, 2024 - current
 - Chemseddine Mebarki, M.Ing., 2023 - current
 - Nathan Babaka Kinalendele, M.Ing., 2023 - current
 - Jack Rayane Djapa Tchagwo, M.Ing., 2022 - current
@@ -27,7 +29,8 @@ author_profile: true
 
 
 ### Former students
- - [Nuri Almarimi](https://ca.linkedin.com/in/nuri-almarimi-0936116b), PhD, 2023. Now Postdoctoral researcher at the [University of Saskatchewan](https://www.usask.ca/). 
+- [Moataz Chouchen](https://dblp.org/pid/269/4723.html), PhD, 2024, Now Assistant Professor at [Concordia University](https://www.concordia.ca/)
+- [Nuri Almarimi](https://ca.linkedin.com/in/nuri-almarimi-0936116b), PhD, 2023. Now Postdoctoral researcher at the [University of Saskatchewan](https://www.usask.ca/). 
 - [Islem Saidani](https://ca.linkedin.com/in/islemsaidani), PhD, 2022. Now Data engineer at [LGS, an IBM Company](https://www.lgs.com/home.html)
 - [Marwa Daagi](https://lineact.cesi.fr/en/cv-chercheurs/daaji-marwa/), PhD, 2021. Now Assistant Professor at [CESI engineering school](https://www.cesi.fr/), Pau, France.
 - [Wilfried Nkouekam Mbouga](https://cm.linkedin.com/in/wilfried-nkouekam-b1a628156), M.Ing., 2022. Now Software Engineer at [Famic Technologies](https://www.famictech.com/en/)
